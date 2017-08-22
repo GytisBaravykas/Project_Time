@@ -15,3 +15,13 @@ C:\Users\Gytis\Desktop\puslapiodizainas\Testas\C#\Work_sheet\Work_sheet\bin\Debu
 C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\bin\Debug\Work_sheet.exe.config
 C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\obj\Debug\Work_sheet.exe
 C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\obj\Debug\Work_sheet.pdb
+C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\bin\Debug\Jobs.db
+C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\bin\Debug\Work_sheet.exe
+C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\bin\Debug\Work_sheet.pdb
+C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\obj\Debug\Work_sheet.csprojResolveAssemblyReference.cache
+C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\obj\Debug\Work_sheet.Main.resources
+C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\obj\Debug\Work_sheet.New_Entry.resources
+C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\obj\Debug\Work_sheet.Properties.Resources.resources
+C:\Users\Gytis\Desktop\c# programavimas\Objektinis\Project_Time\Work_sheet\Work_sheet\obj\Debug\Work_sheet.csproj.GenerateResource.Cache
